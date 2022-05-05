@@ -710,11 +710,3 @@
  #709	Trevenant	Ghost	Grass
  #710	Pumpkaboo	Ghost	Grass
  #711	Gourgeist	Ghost	Grass
- #712	Bergmite	Ice	
- #713	Avalugg	Ice	
- #714	Noibat	Flying	Dragon
- #715	Noivern	Flying	Dragon
- #716	Xerneas	Fairy	
- #717	Yveltal	Dark	Flying
- #718	Zygarde	Dragon	Ground
- #719	Diancie	Rock	Fairy
